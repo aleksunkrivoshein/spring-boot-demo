@@ -1,3 +1,3 @@
 # spring-boot-demo
 Project for study.
-Building CRUD application using spring boot.
+Building CRUD application using Spring Boot
